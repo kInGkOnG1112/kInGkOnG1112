@@ -22,6 +22,6 @@ I'm a passionate **Software Developer** with experience in **Python (Django Fram
 
 ## Get in Touch 📬
 
-- **[LinkedIn]**([your_linkedin_profile_link](https://www.linkedin.com/in/harold-king-talip-3b7496152/))
+- **[LinkedIn]**((https://www.linkedin.com/in/harold-king-talip-3b7496152/))
 
 
