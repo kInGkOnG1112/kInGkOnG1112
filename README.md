@@ -1,90 +1,132 @@
-# Hi there, I'm Harold! 👋
+<div align="center">
 
-### Senior Software Engineer · Full-Stack · Fintech, Logistics & Healthcare
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0B6F68,100:3FD0BF&text=Harold%20King%20Talip&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Senior%20Software%20Engineer%20%C2%B7%20Full-Stack&descAlignY=58&descSize=18" alt="Harold King Talip — Senior Software Engineer" width="100%" />
 
-I build the systems that power real-world operations: payment APIs, cardless teller platforms, clinic management and payroll systems. **7+ years** taking software from requirements to production with **Python (Django)**, **TypeScript (NestJS)**, **React** and **Vue**.
+<a href="https://harold-king-talip.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=18&duration=2800&pause=900&color=0B6F68&center=true&vCenter=true&width=560&lines=I+build+the+systems+that+power+real-world+operations.;Payments+%C2%B7+Cooperatives+%C2%B7+Clinics+%C2%B7+Logistics;Requirements+%E2%86%92+Design+%E2%86%92+Build+%E2%86%92+Ship+%E2%86%92+Run" alt="I build the systems that power real-world operations." />
+</a>
 
-🌐 **Portfolio:** [harold-king-talip.vercel.app](https://harold-king-talip.vercel.app)
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-harold--king--talip.vercel.app-0B6F68?style=flat-square&logo=vercel&logoColor=white)](https://harold-king-talip.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harold-king-talip-3b7496152/)
+[![Email](https://img.shields.io/badge/Email-hkhighking12%40gmail.com-14181D?style=flat-square&logo=gmail&logoColor=white)](mailto:hkhighking12@gmail.com)
+![Location](https://img.shields.io/badge/Tagum%20City-Philippines-646B74?style=flat-square&logo=googlemaps&logoColor=white)
+
+</div>
 
 ---
 
-## About Me 🚀
+### 👋 About
 
-- 💼 **Senior Software Engineer** at Traxion Tech Inc. (grown from Junior to Senior since 2019)
-- 🏦 Building fintech backends for cooperatives and financial institutions: transactions, wallets, disbursements
-- 🧱 Focus: API architecture, database design and query optimization, system integrations, security and reliability
-- 🔭 Currently working on: **Cash Teller Machine**, a QR-based cardless teller platform (NestJS · MS SQL · RabbitMQ)
-- 🌱 Side project: **[TigomTaBai](https://tigomtabai.com/)**, a personal finance app with AI voice and chat entry in English, Tagalog and Bisaya
-- 🤖 I use AI-assisted tools to move faster, without skipping engineering judgment or code quality
-- 📫 Reach me at **hkhighking12@gmail.com**
+Senior Software Engineer with **7+ years** shipping secure, production-grade systems for **fintech, logistics and healthcare**. Backend-first with **Django** and **NestJS**, fluent across the stack with **React** and **Vue**. I own work end to end, from the first requirements meeting to keeping it healthy in production.
 
-## Tech Stack 🧠
+<table>
+  <tr>
+    <td align="center" width="25%"><h2>7+</h2><sub>years in production software</sub></td>
+    <td align="center" width="25%"><h2>12</h2><sub>platforms built &amp; shipped</sub></td>
+    <td align="center" width="25%"><h2>3</h2><sub>industries: fintech, logistics, health</sub></td>
+    <td align="center" width="25%"><h2>Jr → Sr</h2><sub>grown at one company, 2019 – now</sub></td>
+  </tr>
+</table>
 
-**Languages**
+### 🧭 How I work
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+```mermaid
+flowchart LR
+  A["01 · Plan<br/>Requirements"] --> B["02 · Design<br/>Architecture"]
+  B --> C["03 · Build<br/>Implementation"]
+  C --> D["04 · Ship<br/>Release"]
+  D --> E["05 · Run<br/>Production"]
+  E -. feedback .-> A
+  classDef step fill:#E6F2F0,stroke:#0B6F68,color:#14181D,rx:8,ry:8;
+  class A,B,C,D,E step;
+```
 
-**Backend**
+| | Focus |
+|---|---|
+| 🔌 **API architecture & integrations** | RESTful services and system-to-system integrations for wallets, disbursements and operations |
+| 🗄️ **Data modeling & performance** | Schema design and query optimization where data integrity matters |
+| 🛡️ **Security & reliability** | Authentication, role-based access and production support for business-critical systems |
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST-A30000?style=flat-square&logo=django&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+### 🛠️ Featured work
 
-**Frontend**
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://tigomtabai.com/">TigomTaBai</a></b> &nbsp;<img src="https://img.shields.io/badge/●_Live-0B6F68?style=flat-square" alt="Live" /><br/>
+      <sub>PERSONAL FINANCE · AI · 2026 – now</sub><br/><br/>
+      Budgeting and expense tracking with AI-powered <b>voice and chat</b> transaction entry in mixed English, Tagalog and Bisaya.<br/><br/>
+      <code>Django</code> <code>MySQL</code> <code>Tailwind</code> <code>AI voice + chat</code>
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://www.coopnet.online/">Cash Teller Machine</a></b><br/>
+      <sub>FINTECH · COOPERATIVES · 2024 – now</sub><br/><br/>
+      QR-based, cardless teller platform. Reusable transaction flow on the TraxionPay core API, with <b>message-queue</b> processing for stability.<br/><br/>
+      <code>NestJS</code> <code>MS SQL</code> <code>RabbitMQ</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>TraxionPay API</b><br/>
+      <sub>FINTECH · PAYMENTS · 2022 – 2024</sub><br/><br/>
+      API-driven payment platform for <b>wallets, disbursements</b> and financial operations for businesses, co-ops and institutions.<br/><br/>
+      <code>NestJS</code> <code>TypeScript</code> <code>MS SQL</code>
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://www.easethetics.kr/">Easethetics</a></b><br/>
+      <sub>HEALTHCARE · 2022 – 2024</sub><br/><br/>
+      Clinic management for aesthetic and dermatologic clinics: <b>patients, scheduling, billing</b> and reporting, with role-based access.<br/><br/>
+      <code>Django</code> <code>DRF</code> <code>Celery</code> <code>MySQL</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>WExpress DRMS &amp; Payroll</b><br/>
+      <sub>LOGISTICS · HR · 2021 – 2024</sub><br/><br/>
+      Delivery management platform plus an internal payroll system, <b>built from the ground up</b> to production.<br/><br/>
+      <code>Django</code> <code>DRF</code> <code>Celery</code> <code>MySQL</code>
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://www.digicoop.ph/">DigiCoop</a></b><br/>
+      <sub>FINTECH · COOPERATIVES · 2019 – 2023</sub><br/><br/>
+      Digital cooperative platform. Built the <b>web admin portal</b> and designed the v2 database schema.<br/><br/>
+      <code>Django</code> <code>MySQL</code> <code>MS SQL</code>
+    </td>
+  </tr>
+</table>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+### 🧰 Toolkit
 
-**Databases & ORM**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,django,nestjs,flask,react,vue,tailwind,bootstrap,html,css&perline=12" alt="Languages and frameworks" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,rabbitmq,docker,git,postman,jquery&perline=12" alt="Data and tools" />
+</p>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white)
+<p align="center">
+  <sub>Also: Django REST Framework · Celery · MS SQL Server · TypeORM · Django ORM · Swagger · Jira · ClickUp</sub>
+</p>
 
-**Tools**
+### 📈 Career path
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white)
-
-## Featured Projects 🛠️
-
-| Project | What it is | Stack |
-|---|---|---|
-| [**TigomTaBai**](https://tigomtabai.com/) | Personal finance app with AI-powered voice and chatbot transaction entry (English, Tagalog, Bisaya) | Django · MySQL · Tailwind |
-| [**Cash Teller Machine**](https://www.coopnet.online/) | QR-based, cardless teller and transaction platform for cooperatives and financial institutions | NestJS · MS SQL · RabbitMQ |
-| **TraxionPay API** | API-driven payment platform for wallets, disbursements and financial operations | NestJS · MS SQL |
-| [**Easethetics**](https://www.easethetics.kr/) | Clinic management for aesthetic and dermatologic clinics: patients, scheduling, billing, reporting | Django · DRF · Celery · MySQL |
-| **WExpress DRMS & Payroll** | Logistics and delivery management platform with an internal payroll system | Django · DRF · Celery · MySQL |
-| [**DigiCoop**](https://www.digicoop.ph/) | Digital cooperative platform with financial tools and a web admin portal | Django · MySQL · MS SQL |
-
-## Experience 💼
-
-- **Senior Software Engineer**, Traxion Tech Inc. · Nov 2024 – Present
-- **Mid Software Engineer**, Traxion Tech Inc. · Mar 2021 – Nov 2024
-- **Full-Stack Software Developer (Part-Time)**, Maginnovate Inc. · May 2021 – Nov 2025
-- **Junior Software Engineer**, Traxion Tech Inc. · Jun 2019 – Mar 2021
+```
+2019 ──── Junior Software Engineer ─────── Traxion Tech Inc.
+2021 ──── Mid Software Engineer ────────── Traxion Tech Inc.
+2021 ──── Full-Stack Developer (part-time)  Maginnovate Inc.   → 2025
+2024 ──── Senior Software Engineer ─────── Traxion Tech Inc.   ● current
+```
 
 🎓 **BS Information Technology**, University of Southeastern Philippines (2015 – 2019)
 
-## Get in Touch 📬
+---
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0B6F68?style=for-the-badge&logo=vercel&logoColor=white)](https://harold-king-talip.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harold-king-talip-3b7496152/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hkhighking12@gmail.com)
+<div align="center">
+
+**Does your company need a reliable software developer to improve its operations?**
+
+[![Send an email](https://img.shields.io/badge/Send_an_email-0B6F68?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hkhighking12@gmail.com)
+[![View portfolio](https://img.shields.io/badge/View_portfolio-14181D?style=for-the-badge&logo=vercel&logoColor=white)](https://harold-king-talip.vercel.app)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:0B6F68,100:3FD0BF" width="100%" alt="" />
+
+</div>
