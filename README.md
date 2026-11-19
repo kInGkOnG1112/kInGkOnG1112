@@ -1,85 +1,57 @@
-<div align="center">
+# Harold King Talip
 
-<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=600&size=26&duration=3000&pause=1200&color=3FD0BF&center=true&vCenter=true&width=640&height=60&lines=%24+whoami;Harold+King+Talip;Senior+Software+Engineer+%2F%2F+Full-Stack;Shipping+to+production+since+2019" alt="Harold King Talip — Senior Software Engineer" />
+**Senior Software Engineer · Full-Stack** — Tagum City, Philippines
 
-<sub><code>Tagum City, PH</code> &nbsp;·&nbsp; <code>fintech</code> &nbsp;·&nbsp; <code>logistics</code> &nbsp;·&nbsp; <code>healthcare</code></sub>
+I build the systems that power real-world operations. 7+ years delivering secure, reliable software for **fintech, logistics and healthcare**, from requirements to production. Backend-first with Django and NestJS, comfortable across the stack with React and Vue.
 
-<br/><br/>
+[Portfolio](https://harold-king-talip.vercel.app) · [LinkedIn](https://www.linkedin.com/in/harold-king-talip-3b7496152/) · [Email](mailto:hkhighking12@gmail.com)
 
-<a href="https://harold-king-talip.vercel.app"><img src="https://img.shields.io/badge/→_portfolio-0B6F68?style=for-the-badge" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/harold-king-talip-3b7496152/"><img src="https://img.shields.io/badge/linkedin-14181D?style=for-the-badge&logo=linkedin&logoColor=3FD0BF" alt="LinkedIn" /></a>
-<a href="mailto:hkhighking12@gmail.com"><img src="https://img.shields.io/badge/email-14181D?style=for-the-badge&logo=gmail&logoColor=3FD0BF" alt="Email" /></a>
+---
 
-</div>
+### What I do
 
-<br/>
+- **Backend & API architecture:** RESTful services and integrations for payments, wallets and disbursements
+- **Database design:** schema modeling and query optimization with a focus on data integrity
+- **Security & reliability:** authentication, role-based access and production support
+- **Full-stack delivery:** owning features end to end, from planning to deployment and monitoring
 
-```ts
-const harold = {
-  role:       "Senior Software Engineer @ Traxion Tech Inc.",
-  experience: "7+ years · Junior → Mid → Senior at one company",
-  builds:     ["payment APIs", "cardless teller platforms", "clinic systems", "logistics & payroll"],
-  backend:    ["Django", "DRF", "NestJS", "Celery", "RabbitMQ"],
-  frontend:   ["React", "Vue", "Tailwind"],
-  data:       ["MS SQL Server", "PostgreSQL", "MySQL", "MongoDB"],
-  cares:      ["data integrity", "secure APIs", "systems that stay up"],
-  sideQuest:  "TigomTaBai — talk to your budget in Bisaya",
-};
-```
+### Currently
 
-## `> now`
+- 🏦 Building **[Cash Teller Machine](https://www.coopnet.online/)**, a QR-based, cardless teller platform for cooperatives (NestJS, MS SQL, RabbitMQ)
+- 💰 Running **[TigomTaBai](https://tigomtabai.com/)**, my personal finance app with AI voice and chat entry in English, Tagalog and Bisaya
 
-> 🟢 **Building** the [Cash Teller Machine](https://www.coopnet.online/), a QR-based, cardless teller platform that helps cooperatives offer digital financial services. NestJS services, MS SQL, and RabbitMQ queues keeping transactions steady.
->
-> 🟢 **Running** [TigomTaBai](https://tigomtabai.com/), my own personal finance app. Log an expense by voice or chat, in English, Tagalog, Bisaya, or all three in one sentence.
+### Projects
 
-## `> ls ./shipped`
+| Project | Description | Stack |
+|---|---|---|
+| [TigomTaBai](https://tigomtabai.com/) | Personal finance app with AI-powered transaction entry | Django, MySQL, Tailwind |
+| [Cash Teller Machine](https://www.coopnet.online/) | Cardless teller and transaction platform for cooperatives | NestJS, MS SQL, RabbitMQ |
+| TraxionPay API | Payment platform for wallets, disbursements and financial operations | NestJS, MS SQL |
+| [Easethetics](https://www.easethetics.kr/) | Clinic management: patients, scheduling, billing, reporting | Django, DRF, Celery, MySQL |
+| WExpress DRMS & Payroll | Delivery management platform with an internal payroll system | Django, DRF, Celery, MySQL |
+| [DigiCoop](https://www.digicoop.ph/) | Digital cooperative platform and web admin portal | Django, MySQL, MS SQL |
 
-| | Project | Domain | What I did |
-|:-:|---|---|---|
-| ◆ | [**TigomTaBai**](https://tigomtabai.com/) | Personal finance · AI | Designed and built it solo; AI voice + chatbot transaction entry |
-| ◆ | [**Cash Teller Machine**](https://www.coopnet.online/) | Fintech | Backend services, schemas, reusable transaction flow, queue processing |
-| ◇ | **TraxionPay API** | Payments | Wallet and disbursement services, query tuning, API integrations |
-| ◆ | [**Easethetics**](https://www.easethetics.kr/) | Healthcare | End-to-end clinic platform: patients, scheduling, billing, RBAC |
-| ◇ | **WExpress DRMS & Payroll** | Logistics · HR | Built both apps from zero to production, plus server admin |
-| ◆ | [**DigiCoop**](https://www.digicoop.ph/) | Cooperatives | Admin portal, TraxionPay integration, v2 database design |
+### Tech stack
 
-<sub>◆ public site linked &nbsp; ◇ internal / private platform</sub>
+| | |
+|---|---|
+| **Languages** | Python, TypeScript, JavaScript |
+| **Backend** | Django, Django REST Framework, NestJS, Flask, Celery |
+| **Frontend** | React, Vue.js, Tailwind CSS, Bootstrap, HTML, CSS |
+| **Databases** | PostgreSQL, MS SQL Server, MySQL, MongoDB, SQLite |
+| **Tools** | Git, Docker, RabbitMQ, Postman, Swagger, Jira |
 
-## `> cat stack.txt`
+### Experience
 
-<img src="https://skillicons.dev/icons?i=python,django,flask,ts,nestjs,js,react,vue,tailwind,postgres,mysql,mongodb,rabbitmq,docker,git,postman&perline=8" alt="Tech stack" />
+| Role | Company | Period |
+|---|---|---|
+| Senior Software Engineer | Traxion Tech Inc. | 2024 – Present |
+| Mid Software Engineer | Traxion Tech Inc. | 2021 – 2024 |
+| Full-Stack Developer (Part-Time) | Maginnovate Inc. | 2021 – 2025 |
+| Junior Software Engineer | Traxion Tech Inc. | 2019 – 2021 |
 
-<sub>+ Django REST Framework · Celery · MS SQL Server · TypeORM · Swagger · Jira · ClickUp</sub>
+🎓 BS Information Technology, University of Southeastern Philippines (2015 – 2019)
 
-## `> git log --oneline career`
+---
 
-```diff
-+ 2024  feat: promoted to Senior Software Engineer — technical direction, architecture, schema & perf
-+ 2022  feat: TraxionPay API + Easethetics — payments backend and a full clinic platform
-+ 2021  feat: promoted to Mid Software Engineer — APIs, auth, integrations
-+ 2021  feat: joined Maginnovate (part-time) — end-to-end projects through 2025
-+ 2019  init: Junior Software Engineer @ Traxion Tech Inc.
-+ 2019  chore: BS Information Technology, University of Southeastern Philippines
-```
-
-## `> how i ship`
-
-```
-plan ──▶ design ──▶ build ──▶ ship ──▶ run
- │        │          │         │        │
- rules    contracts  services  review   monitor
- scope    schema     auth      tests    tune
- edge     integrate  queues    deploy   support ──┐
- cases                                            │
-   ▲──────────────────── feedback ────────────────┘
-```
-
-<br/>
-
-<div align="center">
-
-<sub>Need a reliable software developer to improve your operations?</sub><br/>
-<a href="mailto:hkhighking12@gmail.com"><b>Let's talk →</b></a>
-
-</div>
+📫 Open to conversations about backend and full-stack work. Reach me at **hkhighking12@gmail.com**.
